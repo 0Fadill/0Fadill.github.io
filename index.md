@@ -2,4 +2,4 @@
 
 Check out my current projects
 
-[Wangy Wangy Generator](https://0Fadill.github.io/pages/wangy.html)
+[Wangy Wangy Generator](https://0Fadill.github.io/pages/Wangy.html)
